@@ -22,12 +22,25 @@ body
     width: 20%
 }
 
-.menu td:hover
+/*.menu td:hover
+{
+    background-color: #BDBDBD;
+}*/
+
+.menu a
+{
+    display: block;
+    background-color: #848484;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.menu a:hover
 {
     background-color: #BDBDBD;
 }
 
-div.content
+div.body
 {
     background-color: white;
     width: 65%;
