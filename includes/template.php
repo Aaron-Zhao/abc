@@ -4,7 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="description" content="ABC: Asian Bible Church of Anchorage, AK" />
         <meta name="Keywords" content="Asian Bible Church Chinese Anchorage Alaska AK Christian" />
-        <title>Asian Bible Church</title>
+        <title><?php echo $title ?></title>
 
         <link rel="stylesheet" type="text/css" href="abc.css" />
     </head>
@@ -15,16 +15,16 @@
             <table class="menu">
                 <tr>
                     <td>
-                        <a href="">Home</a>
+                        <a href="index.php">Home</a>
                     </td>
                     <td>
-                        <a href="">Activities</a>
+                        <a href="Activities.php">Activities</a>
                     </td>
                     <td>
-                        <a href="">Resources</a>
+                        <a href="Resources.php">Resources</a>
                     </td>
                     <td>
-                        <a href="">Contact</a>
+                        <a href="Contact.php">Contact</a>
                     </td>
                     <td>
                         <a href="">中文</a>
@@ -32,8 +32,7 @@
                 </tr>
             </table>
 
-            <h1>Welcome to Asian Bible Church</h1>
-
+            <?php echo $content ?>
         </div>
     </body>
 </html>
