@@ -2,7 +2,13 @@
 
 $title = "Asian Bible Church - Contact Us";
 
-$content = <<<HTML
+include('../../includes/header.php');
+?>
+
+<?php
+include('../../includes/menu.php');
+?>
+
 <h1>Contact Us</h1>
 
 <h2>Asian Bible Church</h2>
@@ -13,7 +19,7 @@ $content = <<<HTML
 </p>
 
 <p>(907) 929-6030</p>
-HTML;
 
-include('../../includes/template.php');
+<?php
+include('../../includes/footer.php');
 ?>

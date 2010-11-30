@@ -2,9 +2,13 @@
 
 $title = "Asian Bible Church - Activities";
 
-$content = <<<HTML
+include('../../includes/header.php');
+?>
 
-HTML;
+<?php
+include('../../includes/menu.php');
+?>
 
-include('../../includes/template.php');
+<?php
+include('../../includes/footer.php');
 ?>

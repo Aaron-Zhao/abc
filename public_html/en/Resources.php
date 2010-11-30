@@ -1,10 +1,25 @@
 <?php
 
-$title = "Asian Bible Church - Resources";
+$title = "Asian Bible Church -  Resources";
 
-$content = <<<HTML
+include('../../includes/header.php');
+?>
 
-HTML;
+<?php
+include('../../includes/menu.php');
+?>
 
-include('../../includes/template.php');
+<h1>Contact Us</h1>
+
+<h2>Asian Bible Church</h2>
+
+<p>
+    12407 Pintail Street<br />
+    Anchorage, AK 99516-2802<br />
+</p>
+
+<p>(907) 929-6030</p>
+
+<?php
+include('../../includes/footer.php');
 ?>
