@@ -2,11 +2,11 @@
 
 $title = "Asian Bible Church -  Resources";
 
-include('../../includes/header.php');
+include('../../includes/en/header.php');
 ?>
 
 <?php
-include('../../includes/menu.php');
+include('../../includes/en/menu.php');
 ?>
 
 <h1>Contact Us</h1>
@@ -21,5 +21,5 @@ include('../../includes/menu.php');
 <p>(907) 929-6030</p>
 
 <?php
-include('../../includes/footer.php');
+include('../../includes/en/footer.php');
 ?>

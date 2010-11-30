@@ -2,7 +2,7 @@
 
 $title = "Welcome to Asian Bible Church";
 
-include('../../includes/header.php');
+include('../../includes/en/header.php');
 ?>
 
 <style type="text/css" >
@@ -26,7 +26,7 @@ table.content td
 </style>
 
 <?php
-include('../../includes/menu.php');
+include('../../includes/en/menu.php');
 ?>
 
 <table width="100%" class="content">
@@ -67,5 +67,5 @@ include('../../includes/menu.php');
 </table>
 
 <?php
-include('../../includes/footer.php');
+include('../../includes/en/footer.php');
 ?>
