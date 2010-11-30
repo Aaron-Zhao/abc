@@ -1,6 +1,6 @@
 <?php
 
-$title = "Welcome to Asian Bible Church";
+$title = "Asian Bible Church - Contact";
 
 $content = <<<HTML
 
