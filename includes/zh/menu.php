@@ -2,7 +2,9 @@
 
     <body>
         <div class="body" style="position: relative;">
-            <img width="100%" height="100px" src="../shared/images/ABC_Banner_zh.jpg" alt="Logo" />
+            <a href="index.php">
+                <img width="100%" height="100px" src="../shared/images/ABC_Banner_zh.jpg" alt="Logo" />
+            </a>
             <table class="menu">
                 <tr>
                     <td>
