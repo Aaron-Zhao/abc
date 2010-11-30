@@ -6,19 +6,19 @@
             <table class="menu">
                 <tr>
                     <td>
-                        <a href="index.php">Home</a>
+                        <a href="index.php">主頁</a>
                     </td>
                     <td>
-                        <a href="Activities.php">Activities</a>
+                        <a href="Activities.php">活動</a>
                     </td>
                     <td>
-                        <a href="Resources.php">Resources</a>
+                        <a href="Resources.php">資源</a>
                     </td>
                     <td>
-                        <a href="Contact.php">Contact Us</a>
+                        <a href="Contact.php">聯絡我們</a>
                     </td>
                     <td>
-                        <a href="../zh/index.php">中文</a>
+                        <a href="../en/index.php">English</a>
                     </td>
                 </tr>
             </table>
