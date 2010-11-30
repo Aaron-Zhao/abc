@@ -59,6 +59,10 @@ include('../../includes/en/menu.php');
                 </p>
 
                 <p>
+                    Rev. Rob Riopelle
+                </p>
+
+                <p>
                     English with Mandarin Chinese translation
                 </p>
             </div>

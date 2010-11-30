@@ -59,6 +59,10 @@ include('../../includes/zh/menu.php');
                 </p>
 
                 <p>
+                    Rob Riopelle 牧師
+                </p>
+
+                <p>
                     英文，普通話翻譯
                 </p>
             </div>
