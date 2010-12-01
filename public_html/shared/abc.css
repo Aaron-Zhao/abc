@@ -27,6 +27,10 @@ body
 {
     background-color: #BDBDBD;
 }*/
+a img
+{
+    border: none;
+}
 
 .menu a
 {

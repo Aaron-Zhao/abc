@@ -20,6 +20,8 @@ include('../../includes/zh/menu.php');
 
 <p>電話號碼：(907) 929-6030</p>
 
+<p>pastor-rob@abc-ak.org</p>
+
 <?php
 include('../../includes/zh/footer.php');
 ?>

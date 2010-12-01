@@ -20,6 +20,8 @@ include('../../includes/en/menu.php');
 
 <p>(907) 929-6030</p>
 
+<p>pastor-rob@abc-ak.org</p>
+
 <?php
 include('../../includes/en/footer.php');
 ?>
