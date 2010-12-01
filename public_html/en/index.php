@@ -55,7 +55,7 @@ include('../../includes/en/menu.php');
                 </p>
 
                 <p>
-                    Time: 1PM
+                    Time: 1 PM
                 </p>
 
                 <p>
