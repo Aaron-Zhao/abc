@@ -28,7 +28,7 @@ include('../../includes/en/menu.php');
         <td width="100px" />
         <td>
             <a href="../shared/images/Christmas_poster.jpg">
-                <img alt="poster" src="../shared/images/Christmas_poster.jpg" width="200px" border="1px" />
+                <img alt="poster" src="../shared/images/christmas_poster.jpg" width="200px" border="1px" />
             </a>
 
             <p>Click on the image for the fullsize image</p>
