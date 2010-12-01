@@ -27,7 +27,7 @@ include('../../includes/zh/menu.php');
         </td>
         <td width="100px" />
         <td align="center">
-            <a href="../shared/images/Christmas_poster.jpg">
+            <a href="../shared/images/christmas_poster.jpg">
                 <img alt="poster" src="../shared/images/christmas_poster.jpg" width="200px" border="1px" />
             </a>
 
