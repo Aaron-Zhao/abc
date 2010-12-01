@@ -49,7 +49,7 @@ include('../../includes/en/menu.php');
                 <h2>Worship Service</h2>
 
                 <p>
-                    Grace Christian School<br />
+                    Anchorage Grace Church<br />
                     12407 Pintail Street<br />
                     Anchorage, AK 99516-2802<br />
                 </p>
