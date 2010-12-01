@@ -21,7 +21,7 @@ include('../../includes/en/menu.php');
         <td align="center" style="padding-left: 20px;" >
             <p>Date: December 24th, 2010</p>
             <p>Time: 6:45 PM - 8:00 PM</p>
-            <p>Location: Rob & Lucy's home</p>
+            <p>Location: Rob &amp; Lucy's home</p>
             <p>12741 Rivulet Cir.</p>
             <p>(907) 929-6030</p>
         </td>
