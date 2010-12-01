@@ -26,7 +26,7 @@ include('../../includes/zh/menu.php');
             <p>(907) 929-6030</p>
         </td>
         <td width="100px" />
-        <td>
+        <td align="center">
             <a href="../shared/images/Christmas_poster.jpg">
                 <img alt="poster" src="../shared/images/christmas_poster.jpg" width="200px" border="1px" />
             </a>
