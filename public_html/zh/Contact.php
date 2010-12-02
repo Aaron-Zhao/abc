@@ -1,14 +1,19 @@
 <?php
+require('../../includes/zh/template.php');
 
-$title = "亞洲聖經教會 - 聯絡我們";
+class page extends template
+{
+    protected $title = "亞洲聖經教會 - 聯絡我們";
 
-include('../../includes/zh/header.php');
+    protected function head()
+    {
 ?>
-
 <?php
-include('../../includes/zh/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <h1>聯絡我們</h1>
 
 <h2>亞洲聖經教會</h2>
@@ -21,7 +26,10 @@ include('../../includes/zh/menu.php');
 <p>電話號碼：(907) 929-6030</p>
 
 <p>pastor-rob@abc-ak.org</p>
-
 <?php
-include('../../includes/zh/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>

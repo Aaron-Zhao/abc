@@ -1,16 +1,24 @@
 <?php
+require('../../includes/zh/template.php');
 
-$title = "亞洲聖經教會 - 資源";
+class page extends template
+{
+    protected $title = "亞洲聖經教會 - 資源";
 
-include('../../includes/zh/header.php');
+    protected function head()
+    {
 ?>
-
 <?php
-include('../../includes/zh/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <h1>資源</h1>
-
 <?php
-include('../../includes/zh/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>

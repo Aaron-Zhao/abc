@@ -1,14 +1,19 @@
 <?php
+require('../../includes/zh/template.php');
 
-$title = "亞洲聖經教會 - 活動";
+class page extends template
+{
+    protected $title = "亞洲聖經教會 - 活動";
 
-include('../../includes/zh/header.php');
+    protected function head()
+    {
 ?>
-
 <?php
-include('../../includes/zh/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <h1>活動</h1>
 
 <table>
@@ -35,7 +40,10 @@ include('../../includes/zh/menu.php');
         </td>
     </tr>
 </table>
-
 <?php
-include('../../includes/zh/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>
