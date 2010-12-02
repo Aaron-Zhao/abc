@@ -1,14 +1,19 @@
 <?php
+require('../../includes/en/template.php');
 
-$title = "Asian Bible Church - Contact Us";
+class page extends template
+{
+    protected $title = "Asian Bible Church - Contact Us";
 
-include('../../includes/en/header.php');
+    protected function head()
+    {
 ?>
-
 <?php
-include('../../includes/en/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <h1>Contact Us</h1>
 
 <h2>Asian Bible Church</h2>
@@ -21,7 +26,10 @@ include('../../includes/en/menu.php');
 <p>(907) 929-6030</p>
 
 <p>pastor-rob@abc-ak.org</p>
-
 <?php
-include('../../includes/en/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>

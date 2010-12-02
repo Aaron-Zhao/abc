@@ -1,10 +1,13 @@
 <?php
+require('../../includes/en/template.php');
 
-$title = "Welcome to Asian Bible Church";
+class page extends template
+{
+    protected $title = "Welcome to Asian Bible Church";
 
-include('../../includes/en/header.php');
+    protected function head()
+    {
 ?>
-
 <style type="text/css" >
 div.left
 {
@@ -24,11 +27,12 @@ table.content td
 }
 
 </style>
-
 <?php
-include('../../includes/en/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <table width="100%" class="content">
     <tr>
         <td width="400px" valign="top">
@@ -69,7 +73,10 @@ include('../../includes/en/menu.php');
         </td>
     </tr>
 </table>
-
 <?php
-include('../../includes/en/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>

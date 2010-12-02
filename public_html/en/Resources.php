@@ -1,16 +1,24 @@
 <?php
+require('../../includes/en/template.php');
 
-$title = "Asian Bible Church -  Resources";
+class page extends template
+{
+    protected $title = "Asian Bible Church -  Resources";
 
-include('../../includes/en/header.php');
+    protected function head()
+    {
 ?>
-
 <?php
-include('../../includes/en/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <h1>Resources</h1>
-
 <?php
-include('../../includes/en/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>

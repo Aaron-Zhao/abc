@@ -1,14 +1,19 @@
 <?php
+require('../../includes/en/template.php');
 
-$title = "Asian Bible Church - Activities";
+class page extends template
+{
+    protected $title = "Asian Bible Church - Activities";
 
-include('../../includes/en/header.php');
+    protected function head()
+    {
 ?>
-
 <?php
-include('../../includes/en/menu.php');
-?>
+    }
 
+    protected function body()
+    {
+?>
 <h1>Activities</h1>
 
 <table>
@@ -35,7 +40,10 @@ include('../../includes/en/menu.php');
         </td>
     </tr>
 </table>
-
 <?php
-include('../../includes/en/footer.php');
+    }
+}
+
+$page = new page();
+$page->createPage();
 ?>
