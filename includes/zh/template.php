@@ -14,6 +14,7 @@ abstract class template {
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="description" content="ABC: Asian Bible Church of Anchorage, AK" />
         <meta name="Keywords" content="Asian Bible Church Chinese Anchorage Alaska AK Christian 亞洲聖經教會 阿拉斯加 安克拉治" />
+        <meta name="google-site-verification" content="pMMSS9tcIKxkaT97d3R7rekBP1exfOpPLuaWhbLbAwA" />
         <title><?php echo $this->title ?></title>
         <link rel="stylesheet" type="text/css" href="../shared/abc.css" />
         <?php $this->head(); ?>
