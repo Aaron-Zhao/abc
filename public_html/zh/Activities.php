@@ -44,7 +44,7 @@ class page extends template
                     </td>
                 </tr>
                 <tr>
-                    <td align="center" style="padding-left: 20px;" >
+                    <td align="center" style="padding-left: 20px; width: 200px;" >
                         <p>日期：二零一零年十二月二十四日</p>
                         <p>時間：晚上六時四十五分至八時</p>
                         <p>地點：牧師家</p>
@@ -52,10 +52,10 @@ class page extends template
                         <p>(907) 929-6030</p>
                         <p>敬請賜覆</p>
                     </td>
-                    <td width="100px" />
+                    <td width="50px" />
                     <td align="center">
                         <a href="../shared/images/christmas_poster.jpg">
-                            <img alt="poster" src="../shared/images/christmas_poster_thumb.jpg" width="200px" border="1px" />
+                            <img alt="poster" src="../shared/images/christmas_poster_thumb.jpg" width="200px" height="259px" style="border: 1px solid #BDBDBD" />
                         </a>
 
                         <p>Click on the image for the fullsize image</p>
