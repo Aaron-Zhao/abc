@@ -1,5 +1,4 @@
 <?php
-ini_set('display_errors',true);
 abstract class template {
     protected $title;
     protected abstract function head();
@@ -7,6 +6,7 @@ abstract class template {
 
     public function createPage()
     {
+        setcookie('lang', 'zh', time() + 63072000, '/');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
