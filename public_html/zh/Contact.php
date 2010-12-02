@@ -25,7 +25,7 @@ class page extends template
 
 <p>電話號碼：(907) 929-6030</p>
 
-<p>pastor-rob@abc-ak.org</p>
+<p>電郵：pastor-rob@abc-ak.org</p>
 <?php
     }
 }

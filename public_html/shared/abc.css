@@ -49,7 +49,7 @@ div.body
 {
     background-color: white;
     width: 750px;
-    height: 600px;
+    min-height: 600px;
     position: relative;
     margin-left: auto;
     margin-right: auto;

@@ -59,7 +59,7 @@ table.content td
                 </p>
 
                 <p>
-                    下午一點
+                    下午一時正
                 </p>
 
                 <p>
