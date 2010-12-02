@@ -25,7 +25,7 @@ abstract class template extends SharedTemplate {
             <a href="Contact.php">Contact Us</a>
         </td>
         <td>
-            <a href="../zh/<?php echo basename($_SERVER['REQUEST_URI']); ?>">中文</a>
+            <a href="../zh/<?php echo $this->getBasename(); ?>">中文</a>
         </td>
     </tr>
 </table>

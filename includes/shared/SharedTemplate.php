@@ -7,6 +7,15 @@ abstract class SharedTemplate {
     protected abstract function setCookies();
     protected abstract function menu();
 
+    protected function getBasename()
+    {
+        $name = basename($_SERVER['REQUEST_URI']);
+        if(strlen($name) == 2)
+            return "";
+        else
+            return $name;
+    }
+
     public function createPage()
     {
         $this->setCookies();
