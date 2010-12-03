@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.abc-ak.org/en/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/en/index.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/en/Activities.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/en/Resources.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/en/Contact.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/zh/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/zh/index.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/zh/Activities.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/zh/Resources.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.abc-ak.org/zh/Contact.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

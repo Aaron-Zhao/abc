@@ -3,7 +3,7 @@ require('../../includes/zh/template.php');
 
 class page extends template
 {
-    protected $title = "歡迎來到亞洲聖經教會";
+    protected $title = "亞洲聖經教會 - 主頁";
 
     protected function head()
     {
