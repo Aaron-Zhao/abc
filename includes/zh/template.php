@@ -32,6 +32,14 @@ abstract class template extends SharedTemplate {
 <?php
     }
 
+        protected function templateHead()
+    {
+?>
+<meta name="description" content="亞洲聖經教會，安克拉治，阿拉斯加" />
+<?php
+        $this->head();
+    }
+
     protected function setCookies()
     {
         setcookie('lang', 'zh', time() + 63072000, '/');

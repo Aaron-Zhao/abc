@@ -32,6 +32,14 @@ abstract class template extends SharedTemplate {
 <?php
     }
 
+    protected function templateHead()
+    {
+?>
+<meta name="description" content="Asian Bible Church of Anchorage, Alaska" />
+<?php
+        $this->head();
+    }
+
     protected function setCookies()
     {
         setcookie('lang', 'en', time() + 63072000, '/');
