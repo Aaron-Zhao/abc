@@ -3,7 +3,7 @@ require('../../includes/en/template.php');
 
 class page extends template
 {
-    protected $title = "Welcome to Asian Bible Church";
+    protected $title = "Asian Bible Church - Home";
 
     protected function head()
     {
