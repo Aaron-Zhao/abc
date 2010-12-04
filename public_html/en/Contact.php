@@ -14,18 +14,18 @@ class page extends template
     protected function body()
     {
 ?>
-<h1>Contact Us</h1>
+        <h1>Contact Us</h1>
 
-<h2>Asian Bible Church</h2>
+        <h2>Asian Bible Church</h2>
 
-<p>
-    12407 Pintail Street<br />
-    Anchorage, AK 99516-2802<br />
-</p>
+        <p>
+            12407 Pintail Street<br />
+            Anchorage, AK 99516-2802<br />
+        </p>
 
-<p>(907) 929-6030</p>
+        <p>(907) 929-6030</p>
 
-<p>pastor-rob@abc-ak.org</p>
+        <p>pastor-rob@abc-ak.org</p>
 <?php
     }
 }

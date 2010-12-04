@@ -14,7 +14,7 @@ class page extends template
     protected function body()
     {
 ?>
-<h1>Resources</h1>
+        <h1>Resources</h1>
 <?php
     }
 }
