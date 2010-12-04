@@ -8,7 +8,7 @@ abstract class template extends SharedTemplate {
     {
 ?>
 <a href="index.php">
-    <img width="100%" height="100px" src="../shared/images/ABC_Banner_en.jpg" alt="Logo" />
+    <img width="100%" height="100px" src="../shared/images/ABC_Banner_en.jpg" alt="Asian Bible Church" />
 </a>
 <table class="menu">
     <tr>
