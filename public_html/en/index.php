@@ -37,7 +37,7 @@ class page extends template
 ?>
         <table width="100%" class="content">
             <tr>
-                <td width="400px" valign="top">
+                <td width="410px" valign="top">
                     <div class="left">
                         <h1>Welcome to Asian Bible Church</h1>
 
@@ -47,9 +47,50 @@ class page extends template
                             at the chapel in Grace Christian School.
                             We welcome you to join us to worship and fellowship together so we may spread the salvation of Jesus Christ.
                         </p>
+
+                        <br />
+                        <br />
+
+                        <h2 style="text-align: center;">Statement of Faith</h2>
+
+                        <p><b>First</b><br />
+                            We believe the Bible to be the inspired, only infallible, authoritative Word of God.
+                        </p>
+
+                        <p><b>Second</b><br />
+                            We believe that there is one God, eternally existent in three persons, Father, Son, and Holy Spirit.
+                        </p>
+
+                        <p><b>Third</b><br />
+                            We believe in the deity of our Lord Jesus Christ, in His virgin birth,
+                            in His sinless life, in His miracles, in His vicarious and atoning death
+                            through His shed blood, in His bodily resurrection, in His ascension to
+                            the right hand of the Father, and His personal return in power and glory.
+                        </p>
+
+                        <p><b>Fourth</b><br />
+                            We believe that the salvation of man who is sinful and lost is only by
+                            the New Birth or regeneration by the Holy Spirit.
+                        </p>
+
+                        <p><b>Fifth</b><br />
+                            We believe in the Spirit-filled life; the believer fully consecrated is
+                            indwelt by the Holy Spirit whereby one is able to witness with the
+                            power to the saving souls.
+                        </p>
+
+                        <p><b>Sixth</b><br />
+                            We believe in the resurrection of both the saved and the unsaved;
+                            that they are saved unto the resurrection of life and they that
+                            are lost unto the resurrection of damnation.
+                        </p>
+
+                        <p><b>Seventh</b><br />
+                            We believe in the spiritual unity of all believers in our Lord Jesus Christ.
+                        </p>
                     </div>
                 </td>
-                <td width="150px" />
+                <td width="140px" />
                 <td width="200px" valign="top">
                     <div class="right">
                         <h2>Worship Service</h2>
@@ -79,6 +120,10 @@ class page extends template
 
     }
 }
+
+
+
+
 
 $page = new page();
 $page->createPage();

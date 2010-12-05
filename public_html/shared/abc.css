@@ -53,10 +53,10 @@ div.body
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: auto;
+    margin-bottom: 50px;
     margin-top: 50px;
     padding-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     border-top-width: 0px;
 }
 
@@ -73,4 +73,11 @@ h1
 h2
 {
     font-size: 12pt;
+}
+
+h3
+{
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: normal;
 }
