@@ -58,7 +58,7 @@ class page extends template
                                     <img alt="poster" src="../shared/images/christmas_poster_thumb.jpg" width="200px" height="259px" style="border: 1px solid #BDBDBD" />
                                 </a>
 
-                                <p>Click on the image for the fullsize image</p>
+                                <p>點擊圖片來放大</p>
                             </td>
                         </tr>
                     </table>
