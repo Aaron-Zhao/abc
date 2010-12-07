@@ -112,6 +112,11 @@ class page extends template
                         <p>
                             English with Mandarin Chinese translation
                         </p>
+
+                        <br />
+                        <br />
+                        
+                        <iframe width="270" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=12407+Pintail+Street+Anchorage,+AK+99516-2802&amp;sll=61.196287,-149.900908&amp;sspn=0.020512,0.052314&amp;ie=UTF8&amp;hq=&amp;hnear=12407+Pintail+St,+Anchorage,+Alaska+99516&amp;ll=61.107142,-149.81795&amp;spn=0.010284,0.026157&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=12407+Pintail+Street+Anchorage,+AK+99516-2802&amp;sll=61.196287,-149.900908&amp;sspn=0.020512,0.052314&amp;ie=UTF8&amp;hq=&amp;hnear=12407+Pintail+St,+Anchorage,+Alaska+99516&amp;ll=61.107142,-149.81795&amp;spn=0.010284,0.026157&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
                     </div>
                 </td>
             </tr>

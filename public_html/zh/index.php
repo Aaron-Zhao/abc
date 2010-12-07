@@ -42,10 +42,7 @@ class page extends template
                         <h1>歡迎來到亞洲聖經教會</h1>
 
                         <p>
-                            我們是一間無宗派的教會，
-                            位於安克拉治的東南部。
-                            崇拜所用的是英語，有普通話翻譯。
-                            我們邀請您來一起敬拜，分享耶穌基督的救恩。
+                            我們是一間無宗派的教會，位於安克拉治的東南部。崇拜所用的是英語，有普通話翻譯。我們邀請您來一起敬拜，分享耶穌基督的救恩。
                         </p>
                         
                         <br />
@@ -62,14 +59,11 @@ class page extends template
                         </p>
 
                         <p><b>其三</b><br />
-                            我們相信主耶穌基督的神性。他由處女所生，過著無罪的生活，行神一跡，
-                            為罪人代死，贖罪，並灑寶血，他又肉身復活，升天並坐在父神的右手邊。他還
-                            要以權柄和榮耀再返回來。
+                            我們相信主耶穌基督的神性。他由處女所生，過著無罪的生活，行神一跡，為罪人代死，贖罪，並灑寶血，他又肉身復活，升天並坐在父神的右手邊。他還要以權柄和榮耀再返回來。
                         </p>
 
                         <p><b>其四</b><br />
-                            我們相信人的救恩只有在聖靈的帶動下，承認自己有罪，並且迷失了，唯通過新生或
-                            重生才能得到。
+                            我們相信人的救恩只有在聖靈的帶動下，承認自己有罪，並且迷失了，唯通過新生或重生才能得到。
                         </p>
 
                         <p><b>其五</b><br />
@@ -107,6 +101,11 @@ class page extends template
                         <p>
                             英語，普通話翻譯
                         </p>
+
+                        <br />
+                        <br />
+
+                        <iframe width="270" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=12407+Pintail+Street+Anchorage,+AK+99516-2802&amp;sll=61.196287,-149.900908&amp;sspn=0.020512,0.052314&amp;ie=UTF8&amp;hq=&amp;hnear=12407+Pintail+St,+Anchorage,+Alaska+99516&amp;ll=61.107142,-149.81795&amp;spn=0.010284,0.026157&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=12407+Pintail+Street+Anchorage,+AK+99516-2802&amp;sll=61.196287,-149.900908&amp;sspn=0.020512,0.052314&amp;ie=UTF8&amp;hq=&amp;hnear=12407+Pintail+St,+Anchorage,+Alaska+99516&amp;ll=61.107142,-149.81795&amp;spn=0.010284,0.026157&amp;z=14" style="color:#0000FF;text-align:left">放大地圖</a></small>
                     </div>
                 </td>
             </tr>
