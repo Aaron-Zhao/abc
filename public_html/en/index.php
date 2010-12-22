@@ -37,7 +37,7 @@ class page extends template
 ?>
         <table width="100%" class="content">
             <tr>
-                <td width="410px" valign="top">
+                <td width="450px" valign="top">
                     <div class="left">
                         <h1>Welcome to Asian Bible Church</h1>
 
@@ -90,7 +90,7 @@ class page extends template
                         </p>
                     </div>
                 </td>
-                <td width="140px" />
+                <td width="100px" />
                 <td width="200px" valign="top">
                     <div class="right">
                         <h2>Worship Service</h2>
