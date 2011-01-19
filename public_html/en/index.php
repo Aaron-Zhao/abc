@@ -26,6 +26,11 @@ class page extends template
                 padding: 0px;
                 border: 0px;
             }
+            p.special
+            {
+                color: red;
+            }
+}
 
         </style>
 <?php
@@ -46,6 +51,15 @@ class page extends template
                             Our worship services are held in English with Mandarin Chinese translation
                             at the chapel in Grace Christian School.
                             We welcome you to join us to worship and fellowship together so we may spread the salvation of Jesus Christ.
+                        </p>
+
+                        <p class="special">
+                            Chinese New Year Special!<br/>
+                            Free Chinese Bible as described in the Alaska Chinese Association Ad<br/>
+                            For your free Chinese Bible,<br/>
+                            send your contact information to:  mail@abc-ak.org<br/><br/>
+
+                            You may also contact the Asian Bible Church office for more information.
                         </p>
 
                         <br />
