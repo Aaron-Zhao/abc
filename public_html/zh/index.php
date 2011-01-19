@@ -52,7 +52,7 @@ class page extends template
                         <p class="special">
                             農曆新年特別贈送！<br/>
                             免費中文聖經。<br/>
-                            請將您的聯絡信息寄去mail@abc-ak.org來領取。<br/><br/>
+                            請將您的聯絡信息寄去<a href="mailto:mail@abc-ak.org">mail@abc-ak.org</a>來領取。<br/><br/>
                             詳情可以聯絡亞洲聖經教會辦公室。
                         </p>
 

@@ -57,7 +57,7 @@ class page extends template
                             Chinese New Year Special!<br/>
                             Free Chinese Bible as described in the Alaska Chinese Association Ad<br/>
                             For your free Chinese Bible,<br/>
-                            send your contact information to:  mail@abc-ak.org<br/><br/>
+                            send your contact information to:  <a href="mailto:mail@abc-ak.org">mail@abc-ak.org</a><br/><br/>
 
                             You may also contact the Asian Bible Church office for more information.
                         </p>
