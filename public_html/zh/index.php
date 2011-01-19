@@ -26,6 +26,10 @@ class page extends template
                 padding: 0px;
                 border: 0px;
             }
+            p.special
+            {
+                color: red;
+            }
 
         </style>
 <?php
@@ -44,7 +48,14 @@ class page extends template
                         <p>
                             我們是一間無宗派的教會，位於安克拉治的東南部。崇拜所用的是英語，有普通話翻譯。我們邀請您來一起敬拜，分享耶穌基督的救恩。
                         </p>
-                        
+
+                        <p class="special">
+                            農曆新年特別贈送！<br/>
+                            免費中文聖經。<br/>
+                            請將您的聯絡信息寄去mail@abc-ak.org來領取。<br/><br/>
+                            詳情可以聯絡亞洲聖經教會辦公室。
+                        </p>
+
                         <br />
                         <br />
 
