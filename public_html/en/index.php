@@ -53,15 +53,6 @@ class page extends template
                             We welcome you to join us to worship and fellowship together so we may spread the salvation of Jesus Christ.
                         </p>
 
-                        <p class="special">
-                            Chinese New Year Special!<br/>
-                            Free Chinese Bible as described in the Alaska Chinese Association Ad<br/>
-                            For your free Chinese Bible,<br/>
-                            send your contact information to:  <a href="mailto:mail@abc-ak.org">mail@abc-ak.org</a><br/><br/>
-
-                            You may also contact the Asian Bible Church office for more information.
-                        </p>
-
                         <br />
                         <br />
 
