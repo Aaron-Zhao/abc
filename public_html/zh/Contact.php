@@ -26,6 +26,8 @@ class page extends template
         <p>電話號碼：(907) 929-6030</p>
 
         <p>電郵：pastor-rob@abc-ak.org</p>
+		<p>Facebook:</p>
+		<p><a href="http://www.facebook.com/pages/Asian-Bible-Church/257176641044896?fref=ts" target="_blank " >Asian Bible Church</a></p>
 <?php
     }
 }
