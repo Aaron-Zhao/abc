@@ -26,6 +26,8 @@ class page extends template
         <p>(907) 929-6030</p>
 
         <p>pastor-rob@abc-ak.org</p>
+		
+	<p><a href="http://www.facebook.com/pages/Asian-Bible-Church/257176641044896?fref=ts" target="_blank " >Visit our Facebook page</a></p>
 <?php
     }
 }

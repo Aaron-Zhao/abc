@@ -19,6 +19,9 @@ abstract class template extends SharedTemplate
                 <td>
                     <a href="Activities.php">活動</a>
                 </td>
+				<td>
+                    <a href="Photos.php">相冊</a>
+                </td>
                 <td>
                     <a href="Resources.php">資源</a>
                 </td>
